@@ -1,0 +1,88 @@
+* {margin:0;padding:0}
+h1{font-weight: 400;text-align: center;}
+body {
+    font-size: 14px;
+    background: #BEC0CA;
+}
+.container {
+    width: 680px;
+    margin: 55px auto;
+    padding: 55px 60px;
+    background: #fff;
+}
+.resume_info {
+    display: flex;
+    display: -webkit-flex;
+}
+.resume_info_msg {
+    flex: 1;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+}
+.resume_info_img {
+    width: 100px;
+}
+.resume_info_msg_content {
+    display: flex;
+    display: -webkit-flex;
+}
+.resume_info_msg_content_left {
+    flex: 0 0 240px;
+    box-sizing: border-box;
+}
+.resume_info_msg_content_left>p {
+    padding: 3px 0;
+}
+.resume_info_msg_content_left>p>span {
+    display: inline-block;
+    width: 75px;
+    text-align: justify;
+    text-align-last: justify;
+}
+.resume_info_msg_content_right {
+    flex:1;
+}
+.resume_info_msg_content_right>p {
+    padding: 3px 0;
+}
+.resume_info_msg_content_right>p>span {
+    display: inline-block;
+    width: 75px;
+    text-align: justify;
+    text-align-last: justify;
+}
+
+.resume_skills p {
+    padding: 3px 0;
+}
+
+.resume_experience p{
+    font-weight: 600;
+    padding: 3px 0;
+}
+.resume_experience>div div{
+    padding-left: 70px;
+    line-height: 22px;
+}
+.common_p10 {
+    padding-left: 10px;
+}
+.common_tit {
+    color: #2770BE;
+    font-size: 16px;
+    border-bottom: 3px solid #CDCDCD;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.common_tit>span {
+    position: absolute;
+    width: 100px;
+    height: 3px;
+    background: #2770BE;
+    bottom: -3px;
+    left: 0px;
+}
