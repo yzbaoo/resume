@@ -5,6 +5,9 @@ ul,ol{list-style-type:none;}
 select,input,img,select{vertical-align:middle;} 
  
 a{text-decoration:none;} 
+p div {
+    font-size: 14px;
+}
 h1{font-weight: 400;text-align: center;}
 body {
     font-size: 14px;
