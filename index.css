@@ -107,3 +107,6 @@ h1 {text-align: center}
     bottom: -3px;
     left: 0px;
 }
+.resume_evaluation_content {
+    line-height: 20px;
+}
