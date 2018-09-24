@@ -18,6 +18,7 @@ body {
     margin: 55px auto;
     padding: 55px 60px;
     background: #fff;
+    font-size:14px;
 }
 .resume_info {
     display: flex;
