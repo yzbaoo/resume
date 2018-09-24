@@ -75,6 +75,8 @@ h1 {text-align: center}
 
 .resume_skills p {
     padding: 3px 0;
+    height: 20px;
+    line-height: 20px;
 }
 
 .resume_experience p{
@@ -83,7 +85,7 @@ h1 {text-align: center}
 }
 .resume_experience>div div{
     padding-left: 70px;
-    line-height: 22px;
+    line-height: 20px;
     font-size: 14px;
 }
 .common_p10 {
