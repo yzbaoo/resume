@@ -82,11 +82,14 @@ h1 {text-align: center}
 .resume_experience p{
     font-weight: 600;
     padding: 3px 0;
+    height: 20px;
+    line-height: 20px;
 }
 .resume_experience>div div{
     padding-left: 70px;
     line-height: 20px;
     font-size: 14px;
+    max-height: 100%;
 }
 .common_p10 {
     padding-left: 10px;
@@ -111,4 +114,5 @@ h1 {text-align: center}
 }
 .resume_evaluation_content {
     line-height: 20px;
+    max-height: 100%;
 }
