@@ -90,6 +90,7 @@ h1 {text-align: center}
     line-height: 20px;
     font-size: 14px;
     max-height: 100%;
+    -webkit-text-size-adjust: none;
 }
 .common_p10 {
     padding-left: 10px;
@@ -113,6 +114,7 @@ h1 {text-align: center}
     left: 0px;
 }
 .resume_evaluation_content {
+    -webkit-text-size-adjust: none;
     line-height: 20px;
     max-height: 100%;
 }
